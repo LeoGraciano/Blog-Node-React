@@ -1,0 +1,23 @@
+{
+  "name": "leo-blog",
+  "version": "1.0.0",
+  "description": "Meu BLog usando Node.js no backend e React.js no frontend e futuramente usando os serviços do Watson ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "react",
+    "react.js",
+    "watson"
+  ],
+  "author": "LeoGraciano",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.0"
+  }
+}
